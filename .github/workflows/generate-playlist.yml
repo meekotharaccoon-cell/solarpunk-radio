@@ -1,0 +1,23 @@
+name: 📻 SolarPunk Radio — Daily Playlist
+on:
+  schedule:
+    - cron: '0 8 * * *'  # Generate fresh playlist every morning
+  workflow_dispatch:
+
+jobs:
+  playlist:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Generate today's playlist
+        run: python playlist_generator.py
+      - name: Commit playlist
+        run: |
+          git config user.email "solarpunk.mycelium@gmail.com"
+          git config user.name "SolarPunk Radio"
+          git add playlists/ || true
+          git diff --staged --quiet || git commit -m "auto: radio playlist $(date -u +%Y-%m-%d)"
+          git push || true
