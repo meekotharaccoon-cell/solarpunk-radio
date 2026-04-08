@@ -1,0 +1,7 @@
+# SolarPunk Radio -- Dependencies
+# Core agent uses stdlib only (urllib, json, xml.etree)
+# These are optional enhancements:
+
+requests>=2.31.0      # nicer HTTP if available, agent falls back to urllib
+feedgen>=1.0.0        # optional: richer RSS/Atom feed generation
+schedule>=1.2.0       # optional: local cron-like scheduling
