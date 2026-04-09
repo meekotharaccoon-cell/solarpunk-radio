@@ -1,0 +1,16 @@
+{
+  "days": [
+    {
+      "date": "2026-04-09",
+      "show": "Spoken Roots",
+      "genre": "spoken",
+      "tracks": 6,
+      "contributor": "community"
+    }
+  ],
+  "total_shows": 1,
+  "total_tracks_played": 6,
+  "contributors": {
+    "community": 1
+  }
+}

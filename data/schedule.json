@@ -1,0 +1,76 @@
+{
+  "station": "SolarPunk Radio",
+  "timezone": "UTC",
+  "blocks": [
+    {
+      "slot": "06:00-08:00",
+      "name": "Dawn Frequencies",
+      "genre": "ambient",
+      "contributor": "auto",
+      "description": "Ambient wake-up -- CC ambient from the commons."
+    },
+    {
+      "slot": "08:00-10:00",
+      "name": "Morning Mesh",
+      "genre": "lofi",
+      "contributor": "auto",
+      "description": "Lo-fi beats while you plan the revolution."
+    },
+    {
+      "slot": "10:00-12:00",
+      "name": "Spoken Roots",
+      "genre": "spoken",
+      "contributor": "community",
+      "description": "Community-submitted spoken word, poetry, know-your-rights spots."
+    },
+    {
+      "slot": "12:00-14:00",
+      "name": "Midday Mycelium",
+      "genre": "mixed",
+      "contributor": "auto",
+      "description": "Genre shuffle -- whatever the mesh delivers."
+    },
+    {
+      "slot": "14:00-16:00",
+      "name": "Afternoon Signal",
+      "genre": "electronic",
+      "contributor": "auto",
+      "description": "Electronic / synthwave from netlabels."
+    },
+    {
+      "slot": "16:00-18:00",
+      "name": "The Commons Hour",
+      "genre": "folk",
+      "contributor": "community",
+      "description": "Folk, acoustic, singer-songwriter -- all CC-licensed."
+    },
+    {
+      "slot": "18:00-20:00",
+      "name": "Evening Dispatch",
+      "genre": "mixed",
+      "contributor": "auto",
+      "description": "News remix, interviews, dispatches from the network."
+    },
+    {
+      "slot": "20:00-22:00",
+      "name": "Night Garden",
+      "genre": "ambient",
+      "contributor": "auto",
+      "description": "Deep ambient for winding down."
+    },
+    {
+      "slot": "22:00-00:00",
+      "name": "Late Transmissions",
+      "genre": "experimental",
+      "contributor": "auto",
+      "description": "Experimental / noise / field recordings."
+    },
+    {
+      "slot": "00:00-06:00",
+      "name": "Overnight Drift",
+      "genre": "ambient",
+      "contributor": "auto",
+      "description": "Six-hour ambient drift. Sleep well."
+    }
+  ]
+}
