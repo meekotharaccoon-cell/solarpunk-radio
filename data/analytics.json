@@ -41,11 +41,18 @@
       "genre": "spoken",
       "tracks": 6,
       "contributor": "community"
+    },
+    {
+      "date": "2026-04-15",
+      "show": "Spoken Roots",
+      "genre": "spoken",
+      "tracks": 6,
+      "contributor": "community"
     }
   ],
-  "total_shows": 6,
-  "total_tracks_played": 36,
+  "total_shows": 7,
+  "total_tracks_played": 42,
   "contributors": {
-    "community": 6
+    "community": 7
   }
 }
