@@ -6,11 +6,20 @@
     <description>Community radio for the commons. No ads. No algorithms. All Creative Commons. AGPL-3.0.</description>
     <language>en</language>
     <generator>solarpunk-radio/archive_manager</generator>
-    <lastBuildDate>Sat, 18 Apr 2026 10:39:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 10:37:27 +0000</lastBuildDate>
     <itunes:author>SolarPunk Radio Collective</itunes:author>
     <itunes:category text="Music" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:summary>Community radio for the commons. No ads. No algorithms. All Creative Commons. AGPL-3.0.</itunes:summary>
+    <item>
+      <title>spoken roots (2026-04-19)</title>
+      <description>spoken roots -- aired 2026-04-19, genre: mixed</description>
+      <pubDate>Sun, 19 Apr 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://github.com/meekotharaccoon-cell/solarpunk-radio#show-69ebef610062</guid>
+      <enclosure url="playlists/spoken_roots_20260419_1037.m3u" type="audio/mpeg" length="0" />
+      <itunes:duration>01:00:00</itunes:duration>
+      <itunes:author>auto</itunes:author>
+    </item>
     <item>
       <title>spoken roots (2026-04-18)</title>
       <description>spoken roots -- aired 2026-04-18, genre: mixed</description>
