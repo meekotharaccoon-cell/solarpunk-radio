@@ -219,6 +219,16 @@
       "file": "playlists/spoken_roots_20260430_1126.m3u",
       "description": "spoken roots -- aired 2026-04-30, genre: mixed",
       "archived_at": "2026-04-30T11:26:37.691105+00:00"
+    },
+    {
+      "id": "a5a240655b68",
+      "name": "spoken roots",
+      "date": "2026-05-01",
+      "genre": "mixed",
+      "contributor": "auto",
+      "file": "playlists/spoken_roots_20260501_1105.m3u",
+      "description": "spoken roots -- aired 2026-05-01, genre: mixed",
+      "archived_at": "2026-05-01T11:05:07.056882+00:00"
     }
   ],
   "index": {
@@ -245,7 +255,8 @@
         "a25ce6f004cd",
         "549cd81f4009",
         "380c26da848c",
-        "32c27981d63f"
+        "32c27981d63f",
+        "a5a240655b68"
       ]
     },
     "by_genre": {
@@ -271,7 +282,8 @@
         "a25ce6f004cd",
         "549cd81f4009",
         "380c26da848c",
-        "32c27981d63f"
+        "32c27981d63f",
+        "a5a240655b68"
       ]
     },
     "by_date": {
@@ -340,6 +352,9 @@
       ],
       "2026-04-30": [
         "32c27981d63f"
+      ],
+      "2026-05-01": [
+        "a5a240655b68"
       ]
     }
   }
