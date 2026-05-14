@@ -244,12 +244,19 @@
       "genre": "mixed",
       "tracks": 6,
       "contributor": "auto"
+    },
+    {
+      "date": "2026-05-14",
+      "show": "Spoken Roots",
+      "genre": "spoken",
+      "tracks": 6,
+      "contributor": "community"
     }
   ],
-  "total_shows": 35,
-  "total_tracks_played": 204,
+  "total_shows": 36,
+  "total_tracks_played": 210,
   "contributors": {
-    "community": 33,
+    "community": 34,
     "auto": 2
   }
 }
