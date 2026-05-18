@@ -272,12 +272,19 @@
       "genre": "spoken",
       "tracks": 6,
       "contributor": "community"
+    },
+    {
+      "date": "2026-05-18",
+      "show": "Midday Mycelium",
+      "genre": "mixed",
+      "tracks": 6,
+      "contributor": "auto"
     }
   ],
-  "total_shows": 39,
-  "total_tracks_played": 228,
+  "total_shows": 40,
+  "total_tracks_played": 234,
   "contributors": {
     "community": 37,
-    "auto": 2
+    "auto": 3
   }
 }
