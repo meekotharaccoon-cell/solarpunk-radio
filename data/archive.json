@@ -469,6 +469,16 @@
       "file": "playlists/midday_mycelium_20260527_1252.m3u",
       "description": "midday mycelium -- aired 2026-05-27, genre: mixed",
       "archived_at": "2026-05-27T12:52:20.475173+00:00"
+    },
+    {
+      "id": "192e729d810f",
+      "name": "midday mycelium",
+      "date": "2026-05-28",
+      "genre": "mixed",
+      "contributor": "auto",
+      "file": "playlists/midday_mycelium_20260528_1349.m3u",
+      "description": "midday mycelium -- aired 2026-05-28, genre: mixed",
+      "archived_at": "2026-05-28T13:49:07.547548+00:00"
     }
   ],
   "index": {
@@ -520,7 +530,8 @@
         "a60d57937e1a",
         "20d579601c5b",
         "1f67d0321d1e",
-        "06c634f6880c"
+        "06c634f6880c",
+        "192e729d810f"
       ]
     },
     "by_genre": {
@@ -571,7 +582,8 @@
         "a60d57937e1a",
         "20d579601c5b",
         "1f67d0321d1e",
-        "06c634f6880c"
+        "06c634f6880c",
+        "192e729d810f"
       ]
     },
     "by_date": {
@@ -715,6 +727,9 @@
       ],
       "2026-05-27": [
         "06c634f6880c"
+      ],
+      "2026-05-28": [
+        "192e729d810f"
       ]
     }
   }
