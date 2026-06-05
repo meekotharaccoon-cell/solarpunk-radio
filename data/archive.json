@@ -549,6 +549,16 @@
       "file": "playlists/midday_mycelium_20260604_1243.m3u",
       "description": "midday mycelium -- aired 2026-06-04, genre: mixed",
       "archived_at": "2026-06-04T12:43:16.866577+00:00"
+    },
+    {
+      "id": "3b1f546e0244",
+      "name": "midday mycelium",
+      "date": "2026-06-05",
+      "genre": "mixed",
+      "contributor": "auto",
+      "file": "playlists/midday_mycelium_20260605_1235.m3u",
+      "description": "midday mycelium -- aired 2026-06-05, genre: mixed",
+      "archived_at": "2026-06-05T12:35:42.059267+00:00"
     }
   ],
   "index": {
@@ -608,7 +618,8 @@
         "72d29db728fc",
         "149f75b3bee7",
         "48338960c3da",
-        "05ed6e532733"
+        "05ed6e532733",
+        "3b1f546e0244"
       ]
     },
     "by_genre": {
@@ -667,7 +678,8 @@
         "72d29db728fc",
         "149f75b3bee7",
         "48338960c3da",
-        "05ed6e532733"
+        "05ed6e532733",
+        "3b1f546e0244"
       ]
     },
     "by_date": {
@@ -835,6 +847,9 @@
       ],
       "2026-06-04": [
         "05ed6e532733"
+      ],
+      "2026-06-05": [
+        "3b1f546e0244"
       ]
     }
   }
