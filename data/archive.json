@@ -579,6 +579,16 @@
       "file": "playlists/spoken_roots_20260607_1146.m3u",
       "description": "spoken roots -- aired 2026-06-07, genre: mixed",
       "archived_at": "2026-06-07T11:46:47.658517+00:00"
+    },
+    {
+      "id": "0e064c427ed0",
+      "name": "afternoon signal",
+      "date": "2026-06-08",
+      "genre": "mixed",
+      "contributor": "auto",
+      "file": "playlists/afternoon_signal_20260608_1405.m3u",
+      "description": "afternoon signal -- aired 2026-06-08, genre: mixed",
+      "archived_at": "2026-06-08T14:05:04.185308+00:00"
     }
   ],
   "index": {
@@ -641,7 +651,8 @@
         "05ed6e532733",
         "3b1f546e0244",
         "883c6dbafdb3",
-        "ab8f6a74f5f3"
+        "ab8f6a74f5f3",
+        "0e064c427ed0"
       ]
     },
     "by_genre": {
@@ -703,7 +714,8 @@
         "05ed6e532733",
         "3b1f546e0244",
         "883c6dbafdb3",
-        "ab8f6a74f5f3"
+        "ab8f6a74f5f3",
+        "0e064c427ed0"
       ]
     },
     "by_date": {
@@ -880,6 +892,9 @@
       ],
       "2026-06-07": [
         "ab8f6a74f5f3"
+      ],
+      "2026-06-08": [
+        "0e064c427ed0"
       ]
     }
   }
