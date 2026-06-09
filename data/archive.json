@@ -589,6 +589,16 @@
       "file": "playlists/afternoon_signal_20260608_1405.m3u",
       "description": "afternoon signal -- aired 2026-06-08, genre: mixed",
       "archived_at": "2026-06-08T14:05:04.185308+00:00"
+    },
+    {
+      "id": "d482d4b06abd",
+      "name": "midday mycelium",
+      "date": "2026-06-09",
+      "genre": "mixed",
+      "contributor": "auto",
+      "file": "playlists/midday_mycelium_20260609_1235.m3u",
+      "description": "midday mycelium -- aired 2026-06-09, genre: mixed",
+      "archived_at": "2026-06-09T12:35:45.460519+00:00"
     }
   ],
   "index": {
@@ -652,7 +662,8 @@
         "3b1f546e0244",
         "883c6dbafdb3",
         "ab8f6a74f5f3",
-        "0e064c427ed0"
+        "0e064c427ed0",
+        "d482d4b06abd"
       ]
     },
     "by_genre": {
@@ -715,7 +726,8 @@
         "3b1f546e0244",
         "883c6dbafdb3",
         "ab8f6a74f5f3",
-        "0e064c427ed0"
+        "0e064c427ed0",
+        "d482d4b06abd"
       ]
     },
     "by_date": {
@@ -895,6 +907,9 @@
       ],
       "2026-06-08": [
         "0e064c427ed0"
+      ],
+      "2026-06-09": [
+        "d482d4b06abd"
       ]
     }
   }
