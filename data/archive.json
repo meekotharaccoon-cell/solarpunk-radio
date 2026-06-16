@@ -659,6 +659,16 @@
       "file": "playlists/afternoon_signal_20260615_1544.m3u",
       "description": "afternoon signal -- aired 2026-06-15, genre: mixed",
       "archived_at": "2026-06-15T15:44:43.864596+00:00"
+    },
+    {
+      "id": "7545a3ad863f",
+      "name": "afternoon signal",
+      "date": "2026-06-16",
+      "genre": "mixed",
+      "contributor": "auto",
+      "file": "playlists/afternoon_signal_20260616_1508.m3u",
+      "description": "afternoon signal -- aired 2026-06-16, genre: mixed",
+      "archived_at": "2026-06-16T15:08:06.708318+00:00"
     }
   ],
   "index": {
@@ -729,7 +739,8 @@
         "518381e55317",
         "c3426dbfa25f",
         "73a9f5fa84a6",
-        "b08a778dffea"
+        "b08a778dffea",
+        "7545a3ad863f"
       ]
     },
     "by_genre": {
@@ -799,7 +810,8 @@
         "518381e55317",
         "c3426dbfa25f",
         "73a9f5fa84a6",
-        "b08a778dffea"
+        "b08a778dffea",
+        "7545a3ad863f"
       ]
     },
     "by_date": {
@@ -1000,6 +1012,9 @@
       ],
       "2026-06-15": [
         "b08a778dffea"
+      ],
+      "2026-06-16": [
+        "7545a3ad863f"
       ]
     }
   }

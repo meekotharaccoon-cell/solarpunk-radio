@@ -468,12 +468,19 @@
       "genre": "electronic",
       "tracks": 6,
       "contributor": "auto"
+    },
+    {
+      "date": "2026-06-16",
+      "show": "Afternoon Signal",
+      "genre": "electronic",
+      "tracks": 6,
+      "contributor": "auto"
     }
   ],
-  "total_shows": 67,
-  "total_tracks_played": 396,
+  "total_shows": 68,
+  "total_tracks_played": 402,
   "contributors": {
     "community": 45,
-    "auto": 22
+    "auto": 23
   }
 }
