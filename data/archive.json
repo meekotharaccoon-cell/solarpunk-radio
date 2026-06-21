@@ -709,6 +709,16 @@
       "file": "playlists/spoken_roots_20260620_1154.m3u",
       "description": "spoken roots -- aired 2026-06-20, genre: mixed",
       "archived_at": "2026-06-20T11:54:56.295229+00:00"
+    },
+    {
+      "id": "0e6feb68c210",
+      "name": "midday mycelium",
+      "date": "2026-06-21",
+      "genre": "mixed",
+      "contributor": "auto",
+      "file": "playlists/midday_mycelium_20260621_1209.m3u",
+      "description": "midday mycelium -- aired 2026-06-21, genre: mixed",
+      "archived_at": "2026-06-21T12:09:26.569968+00:00"
     }
   ],
   "index": {
@@ -784,7 +794,8 @@
         "c1708f98e40b",
         "7d1e6e8b836a",
         "010f88fa5a14",
-        "5084884012a7"
+        "5084884012a7",
+        "0e6feb68c210"
       ]
     },
     "by_genre": {
@@ -859,7 +870,8 @@
         "c1708f98e40b",
         "7d1e6e8b836a",
         "010f88fa5a14",
-        "5084884012a7"
+        "5084884012a7",
+        "0e6feb68c210"
       ]
     },
     "by_date": {
@@ -1075,6 +1087,9 @@
       ],
       "2026-06-20": [
         "5084884012a7"
+      ],
+      "2026-06-21": [
+        "0e6feb68c210"
       ]
     }
   }
