@@ -6,11 +6,20 @@
     <description>Community radio for the commons. No ads. No algorithms. All Creative Commons. AGPL-3.0.</description>
     <language>en</language>
     <generator>solarpunk-radio/archive_manager</generator>
-    <lastBuildDate>Tue, 23 Jun 2026 12:31:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 12:17:32 +0000</lastBuildDate>
     <itunes:author>SolarPunk Radio Collective</itunes:author>
     <itunes:category text="Music" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:summary>Community radio for the commons. No ads. No algorithms. All Creative Commons. AGPL-3.0.</itunes:summary>
+    <item>
+      <title>midday mycelium (2026-06-24)</title>
+      <description>midday mycelium -- aired 2026-06-24, genre: mixed</description>
+      <pubDate>Wed, 24 Jun 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://github.com/meekotharaccoon-cell/solarpunk-radio#show-43b48670d44a</guid>
+      <enclosure url="playlists/midday_mycelium_20260624_1217.m3u" type="audio/mpeg" length="0" />
+      <itunes:duration>01:00:00</itunes:duration>
+      <itunes:author>auto</itunes:author>
+    </item>
     <item>
       <title>midday mycelium (2026-06-23)</title>
       <description>midday mycelium -- aired 2026-06-23, genre: mixed</description>
