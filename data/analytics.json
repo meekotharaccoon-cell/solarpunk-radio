@@ -573,12 +573,19 @@
       "genre": "mixed",
       "tracks": 6,
       "contributor": "auto"
+    },
+    {
+      "date": "2026-07-01",
+      "show": "Midday Mycelium",
+      "genre": "mixed",
+      "tracks": 6,
+      "contributor": "auto"
     }
   ],
-  "total_shows": 82,
-  "total_tracks_played": 486,
+  "total_shows": 83,
+  "total_tracks_played": 492,
   "contributors": {
     "community": 48,
-    "auto": 34
+    "auto": 35
   }
 }
